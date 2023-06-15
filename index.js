@@ -1,1 +1,1 @@
-const t = ()=> {}
+const test = () => {};
