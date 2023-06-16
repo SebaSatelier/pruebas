@@ -1,4 +1,3 @@
-const test = () => {};
 
 const saludar = (message) => {
     console.log(message);
